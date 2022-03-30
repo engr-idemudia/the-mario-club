@@ -133,7 +133,7 @@ nav li a:hover{
 }
 .images li:hover{
    position: relative;
-   top: -4px;
+   top: -5px;
 }
 form input:focus{
    border: 4px dashed #4b4b4b;
